@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pandas
+thefuzz[python-levenshtein]
+sentence-transformers
+scikit-learn
